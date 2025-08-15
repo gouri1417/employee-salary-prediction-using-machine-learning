@@ -34,8 +34,7 @@ The dataset contains details like:
 
 ---
 
-## 🚀 Installation & How to Run
+## 🚀 1. **Clone the repository**
 
-1. **Clone the repository**
-   
+
    git clone https://github.com/gouri1417/employee-salary-prediction-using-machine-learning.git
